@@ -1,4 +1,4 @@
-# Mobile-Architect-And-Programming
+# Weight Journal Full Stack Android Application
 ---
 **Description**
 * Languages and Frameworks: Java, XML, SQLite, Android Studio, OpenAI 
