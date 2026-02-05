@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- The purple background for dates with entries -->
+    <solid android:color="#BB86FC" />
+
+    <!-- Rounded corners to make it look like a pill or circle -->
+    <corners android:radius="20dp" />
+
+    <!-- Padding to keep the text away from the edges -->
+    <padding
+        android:left="8dp"
+        android:right="8dp"
+        android:top="4dp"
+        android:bottom="4dp" />
+</shape>

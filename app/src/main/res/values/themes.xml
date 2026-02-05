@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- CHANGE THE PARENT TO .NoActionBar -->
+    <style name="Theme.ProjectTwoCS360BrandonHornick" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#BB86FC</item>
+        <item name="colorPrimaryVariant">#3700B3</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Customize your status bar (the very top bar with time/battery) -->
+        <item name="android:statusBarColor">#1F1F1F</item>
+    </style>
+</resources>

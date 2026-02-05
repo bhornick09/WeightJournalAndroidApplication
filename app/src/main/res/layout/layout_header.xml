@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- layout_header.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/weight_journal_header"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:background="#1F1F1F"
+    android:elevation="4dp"
+    android:textColor="#BB86FC"
+    android:text="Weight Journal" />
