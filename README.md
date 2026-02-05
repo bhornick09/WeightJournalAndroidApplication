@@ -10,7 +10,7 @@ Structure and Algorithm components like the Min/Max algorithm and using ArrayLis
 ---
 **Screenshots**
 <p>
-  <img width="395" height="882" alt="image" src="https://github.com/user-attachments/assets/019bab18-e22e-44f3-8e86-5816bd104ec7" />
-  <img width="398" height="884" alt="image" src="https://github.com/user-attachments/assets/c035e563-e032-47ff-8a76-97c3092ea0ae" />
-  <img width="394" height="876" alt="image" src="https://github.com/user-attachments/assets/bb08b77e-e359-4a69-9373-ab4ac281edb6" />
+  <img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/019bab18-e22e-44f3-8e86-5816bd104ec7" />
+  <img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/c035e563-e032-47ff-8a76-97c3092ea0ae" />
+  <img width="350" height="800" alt="image" src="https://github.com/user-attachments/assets/bb08b77e-e359-4a69-9373-ab4ac281edb6" />
 </p>
